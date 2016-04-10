@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Careers Live]]></title>
         <description><![CDATA[Careers Live]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/careers-live/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 19:58:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 20:20:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/careers-live/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b59f1fa-1fe3-4e77-9552-721cc3e5dde8.jpg">]]></description>
-            <link>undefinedcareers-live-is-here-discuss-the-issues/index.html</link>
+            <link>https://thegrid.ai/careers-live/careers-live-is-here-discuss-the-issues/index.html</link>
             <guid isPermaLink="false">d0077b54-cad4-4c3b-832c-a0c192282cf8</guid>
-            <pubDate>Sat, 09 Apr 2016 19:57:59 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 20:20:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
