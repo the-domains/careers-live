@@ -1,28 +1,40 @@
-name: Careers Live
+layout_spectrum: 1
 favicon: null
-layout_spectrum: 0.6617840973194689
-typography_spectrum: 0.8282552077434957
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: Careers Live
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.4767418822739273
+  lightness: 0.8297873
+  saturation: 0.7872341
+  rhythmicContrast: 0.7148936
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.47674188227392733
-  lightness: 0.6760214688256383
-  saturation: 0.5938368141651154
-  rhythmicContrast: 0.8740663405042142
-purpose: []
+typography_spectrum: 0.6276596
